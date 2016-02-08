@@ -118,6 +118,6 @@ log4j.main = {
 
 credentials{
 	
-	username="srivasashutosh"
-	password="devops@123"
+	username=""
+	password=""
 }
